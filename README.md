@@ -1,4 +1,5 @@
-Amazon Clone
+**Amazon Clone**
+
 This project is a simplified clone of the Amazon website, built entirely using HTML and vanilla CSS. It aims to replicate the look and feel of the Amazon website, focusing on its layout, design, and responsiveness, without incorporating backend functionality or interactivity.
 
 Features
